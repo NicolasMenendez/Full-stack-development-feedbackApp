@@ -1,4 +1,5 @@
 // prod.js - production keys here
+// production subdomain  productionkdakdallfkaklaax
 
 module.exports = {
   googleClientID: process.env.GOOGLE_CLIENT_ID,

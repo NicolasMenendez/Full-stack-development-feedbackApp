@@ -1,7 +1,7 @@
 function localtunnel {
-  lt -s liaiehrapcladkcnl --port 5000
+  lt -s productionkdakdallfkaklaax
 }
 until localtunnel; do
 echo "localtunnel server crashed"
 sleep 2
-done 
+done
