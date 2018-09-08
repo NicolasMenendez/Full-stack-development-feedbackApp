@@ -1,5 +1,5 @@
 function localtunnel {
-  lt -s productionkdakdallfkaklaax
+  lt -s productionkdakdallfkaklaax 
 }
 until localtunnel; do
 echo "localtunnel server crashed"
